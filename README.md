@@ -31,3 +31,5 @@ Applicable Use Cases: Artistic Image Generation:Turn photos into artwork by appl
 Dependencies: The following libraries are required: tensorflow: The main library used for building and deploying machine learning models. tensorflow_hub: This allows loading pre-trained models hosted on TensorFlow Hub. numpy: Used for handling arrays and numerical computations. matplotlib: Used for displaying images. PIL (Pillow): Used for image manipulation (loading, saving, etc.).
 
 # OUTPUT
+![Screenshot (5)](https://github.com/user-attachments/assets/adebe5e7-92a3-45f7-b152-ede10639bd57)
+![Screenshot (4)](https://github.com/user-attachments/assets/9f3e5a7e-98ef-49be-a19a-f0f734b68aa9)
